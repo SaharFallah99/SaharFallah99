@@ -10,7 +10,6 @@
 </a>
 </div>  
 
-Hi there 👋 <br>
 💻I'm a Software Engineering. I want to improve my skills and share my projects here 🙂 <br>
 🌱I’m currently learning Power Bi and Computer Vision
 
