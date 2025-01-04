@@ -9,7 +9,7 @@
 </div>  
 
 💻I'm a Software Engineering. I want to improve my skills and share my projects here 🙂 <br>
-🌱I’m currently learning Power Bi and Computer Vision
+🌱I’m currently learning NLP.
 
 # Skills
 Machine Learning <br>
